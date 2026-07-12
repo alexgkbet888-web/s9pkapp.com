@@ -1,0 +1,81 @@
+id,keyword,intent,priority,page_type,target_page,last_modified,source
+1,s9 game login,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+2,s9 register Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+3,s9 password reset otp not received,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+4,s9 OTP not received,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+5,s9 number already used,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+8,S9 Login Recovery Desk support,brand,P2,support,/support/,2026-06-28,sop-full-audit
+9,S9 Login Recovery Desk FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
+10,s9 login Pakistan,category,P1,hub/category,/login/,2026-06-28,sop-full-audit
+11,s9 otp Pakistan,category,P1,hub/category,/otp/,2026-06-28,sop-full-audit
+12,s9 password reset Pakistan,category,P1,hub/category,/password-reset/,2026-06-28,sop-full-audit
+13,s9 account recovery Pakistan,category,P1,hub/category,/account-recovery/,2026-06-28,sop-full-audit
+14,why s9 otp not received,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+15,how to reset s9 password,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+16,why s9 number already used,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+17,how to register s9 game in Pakistan,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+18,what to do if s9 login fails after update,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+19,s9 login issue vs otp issue,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+20,s9 register page vs login page,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+21,s9 account recovery alternatives,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+22,s9 game login Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+23,s9 game login PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+24,s9 game login Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+25,s9 game login mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+26,s9 game login H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+27,s9 game login 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+28,s9 game login guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+29,s9 game login checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+30,s9 game login fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+31,s9 game login not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+32,s9 game login latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+33,s9 game login support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+34,s9 register Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+35,s9 register Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+36,s9 register Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+37,s9 register Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+38,s9 register Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+39,s9 register Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+40,s9 register Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+41,s9 register Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+42,s9 register Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+43,s9 register Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+44,s9 register Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+45,s9 register Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+46,s9 password reset otp not received Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+47,s9 password reset otp not received PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+48,s9 password reset otp not received Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+49,s9 password reset otp not received mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+50,s9 password reset otp not received H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+51,s9 password reset otp not received 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+52,s9 password reset otp not received guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+53,s9 password reset otp not received checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+54,s9 password reset otp not received fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+55,s9 password reset otp not received not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+56,s9 password reset otp not received latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+57,s9 password reset otp not received support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+58,s9 OTP not received Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+59,s9 OTP not received PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+60,s9 OTP not received Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+61,s9 OTP not received mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+62,s9 OTP not received H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+63,s9 OTP not received 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+64,s9 OTP not received guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+65,s9 OTP not received checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+66,s9 OTP not received fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+67,s9 OTP not received not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+68,s9 OTP not received latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+69,s9 OTP not received support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+70,s9 number already used Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+71,s9 number already used PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+72,s9 number already used Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+73,s9 number already used mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+74,s9 number already used H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+75,s9 number already used 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+76,s9 number already used guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+77,s9 number already used checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+78,s9 number already used fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+79,s9 number already used not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+80,s9 number already used latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit

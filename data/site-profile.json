@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "s9pkapp.com",
+  "brand": "S9 Login Recovery Desk",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "S9-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://s9pkapp.com/",
+  "siteType": "authority",
+  "positioning": "S9 login, register, OTP and password recovery authority for Pakistan users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "s9 game login",
+    "s9 register Pakistan"
+  ],
+  "secondaryKeywords": [
+    "s9 password reset otp not received",
+    "s9 OTP not received",
+    "s9 number already used"
+  ],
+  "technical": {
+    "sitemapUrl": "https://s9pkapp.com/sitemap.xml",
+    "robotsUrl": "https://s9pkapp.com/robots.txt",
+    "feedUrl": "https://s9pkapp.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:s9pkapp.com",
+    "connected": false
+  }
+}
