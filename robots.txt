@@ -1,18 +1,31 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
+
 Sitemap: https://s9pkapp.com/sitemap.xml
 
 User-agent: *
+
+
 User-agent: *
+
+
 User-agent: *
+
+
 User-agent: *
+
+
 User-agent: *
+
+
 User-agent: *
+
+
 User-agent: *
+
+
 User-agent: *
+
+
 User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
-User-agent: *
+
