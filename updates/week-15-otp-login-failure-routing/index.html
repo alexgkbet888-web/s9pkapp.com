@@ -1,0 +1,107 @@
+<!doctype html><html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, follow">
+  <title>OTP login recovery path | S9 Login Recovery Desk</title>
+  <meta name="description" content="Route split for OTP, login, and registration failures to reduce support loops.">
+  <link rel="canonical" href="https://s9pkapp.com/updates/week-16-otp-login-failure-routing/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="OTP login recovery path | S9 Login Recovery Desk">
+  <meta property="og:description" content="Route split for OTP, login, and registration failures to reduce support loops.">
+  <meta property="og:url" content="https://s9pkapp.com/updates/week-16-otp-login-failure-routing/">
+  <meta property="og:site_name" content="S9 Login Recovery Desk">
+  <meta name="google-site-verification" content="REPLACE_WITH_GSC_TOKEN">
+  <meta name="msvalidate.01" content="REPLACE_WITH_BING_TOKEN">
+  <link rel="manifest" href="../../manifest.webmanifest">
+  <link rel="stylesheet" href="../../styles.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y6WS71WJ22"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Y6WS71WJ22');
+  </script>
+  <script>window.SITE_ROOT="../../";</script>
+  <script type="application/ld+json">{
+    "@context":  "https://schema.org",
+    "@type":  "WebSite",
+    "name":  "S9 Login Recovery Desk",
+    "url":  "https://s9pkapp.com/updates/week-16-otp-login-failure-routing/",
+    "potentialAction":  {
+                            "@type":  "SearchAction",
+                            "target":  "https://s9pkapp.com/?s={search_term_string}",
+                            "query-input":  "required name=search_term_string"
+                        }
+}</script>
+</head>
+<body style="--accent:#6d28d9">
+<header class="site-head"><a class="brand" href="../../">S9 Login Recovery Desk</a><nav><a href="/account/login/">Login Guide</a> <a href="/account/register/">Register Guide</a> <a href="/account/otp-not-received/">OTP Not Received</a> <a href="/account/password-reset/">Password Reset</a> <a href="/blog/">Blog</a> <a class="register" href="https://b9.game/refer/MDMxMjMxMjM1NTU=">Register</a></nav></header>
+<main class="wrap page">
+  <a href="../../">Home</a>
+  <nav class="breadcrumb" aria-label="breadcrumb"><a href="../../">S9 Login Recovery Desk</a> / <a href="/updates/">Updates</a> / <span>Update</span></nav>
+  <h1>OTP and login recovery routing</h1>
+  <p>Updated: 2026-07-18</p>
+  <p>Route split for OTP, login, and registration failures to reduce support loops.</p>
+  <h2>Direct update</h2>
+  <ul>
+<li>Separate three failure branches: OTP/login/registration</li>
+<li>Set network and permission checks first</li>
+<li>Route users to right reset or register path</li>
+  </ul>
+  <h2>Execution flow</h2>
+  <ol>
+<li>Confirm issue branch first</li>
+<li>Offer short retry and cache clear sequence</li>
+<li>Guide users from OTP branch to register or login pages</li>
+  </ol>
+  <h2>FAQ</h2>
+<h3>What if OTP is delayed?</h3><p>Retry after network check, device settings, and SMS queue refresh.</p>
+<h3>Is account lock separate from password issue?</h3><p>Yes. Show password and account lock steps separately.</p>
+<h3>Should all recovery issues use one form?</h3><p>No. Keep separate pages for login, register and OTP branches.</p>
+  <h2>Risk Notice</h2>
+  <p>Do not imply guaranteed ranking, payout amount, or guaranteed account outcome. Publish only verifiable operational guidance.</p>
+  <h2>Related pages</h2>
+  <ul>
+<li><a href="/account/login/">Login Guide</a></li>
+<li><a href="/account/register/">Register Guide</a></li>
+<li><a href="/account/otp-not-received/">OTP Not Received</a></li>
+<li><a href="/account/password-reset/">Password Reset</a></li>
+  </ul>
+  <h2>Submission</h2>
+  <p>After sitemap and feed updates, submit the URL to GSC and keep one week cadence.</p>
+</main>
+<footer class="footer"><div class="wrap"><strong>S9 Login Recovery Desk</strong><nav><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a><a href="/faq/">FAQ</a><a href="/support/">Support</a><a href="https://b9.game/refer/MDMxMjMxMjM1NTU=">Register</a></nav></div></footer>
+<script type="application/ld+json">{
+    "@context":  "https://schema.org",
+    "@type":  "FAQPage",
+    "mainEntity":  [
+                       {
+                           "@type":  "Question",
+                           "name":  "What if OTP is delayed?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "Retry after network check, device settings, and SMS queue refresh."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "Is account lock separate from password issue?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "Yes. Show password and account lock steps separately."
+                                              }
+                       },
+                       {
+                           "@type":  "Question",
+                           "name":  "Should all recovery issues use one form?",
+                           "acceptedAnswer":  {
+                                                  "@type":  "Answer",
+                                                  "text":  "No. Keep separate pages for login, register and OTP branches."
+                                              }
+                       }
+                   ]
+}</script>
+<script src="../../script.js" defer></script>
+</body></html>
+

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <item>
@@ -369,6 +369,13 @@
       <link>https://s9pkapp.com/updates/week-37-otp-login-failure-routing/</link>
       <pubDate>2026-07-10T00:00:00Z</pubDate>
       <description>week-37-otp-login-failure-routing</description>
+    </item>
+    <item>
+      <title>otp login failure routing</title>
+      <link>https://s9pkapp.com/updates/week-16-otp-login-failure-routing/</link>
+      <guid>https://s9pkapp.com/updates/week-16-otp-login-failure-routing/</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0900</pubDate>
+      <description>Weekly evidence and maintenance update.</description>
     </item>
   </channel>
 </rss>
