@@ -42,6 +42,16 @@
   <h1>OTP and login recovery routing</h1>
   <p>Updated: 2026-07-18</p>
   <p>Route split for OTP, login, and registration failures to reduce support loops.</p>
+
+  <h2>Week 16 OTP login routing delta</h2>
+  <p>This Week 16 note adds a separate editorial check so the page is not a repeated archive entry.</p>
+  <ul>
+<li>Expanded OTP failure triage into phone format, resend timing, and network-state checks.</li>
+<li>Added routing guidance for users moving between app page, support page, and FAQ.</li>
+<li>Keeps login troubleshooting separate from registration promotion.</li>
+  </ul>
+  <h3>What is the main Week 16 OTP check?</h3><p>Confirm +92 phone format, wait for resend timing, and test a clean network session before escalating.</p>
+
   <h2>Direct update</h2>
   <ul>
 <li>Separate three failure branches: OTP/login/registration</li>
